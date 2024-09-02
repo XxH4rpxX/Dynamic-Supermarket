@@ -10,3 +10,6 @@ Principais funcionalidades:
 - Registro detalhado de todas as vendas, incluindo a data de cada transação.
 - Gerenciamento do carrinho de compras, permitindo uma experiência de compra organizada e eficiente.
 - Possibilidade de abrir e fechar o caixa, realizar sangria e efetuar pagamentos com cartão ou dinheiro, incluindo cálculo de troco.
+- Listagem de clientes/produtos em ordem alfabética.
+- Busca por código do cliente/produto.
+- Clientes/produtos/usuários ficam salvos em arquivos sem a necessidade de ter que adicionar novamente quando executar o compilador.
